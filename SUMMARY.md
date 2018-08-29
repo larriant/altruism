@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Altruism NGO Manifesto](altruism-ngo-manifesto.md)
 * [What is Altruism?](what-is-altruism.md)
 * [Why is spreading Altruism Important?](why-is-altruism-important.md)
