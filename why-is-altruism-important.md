@@ -2,7 +2,7 @@
 description: Why do we want to start an NGO to spread altruism?
 ---
 
-# Why is spreading Altruism Important?
+# Why spread Altruism?
 
 The world faces a **BOOM equation**. Or **The Multidimensional Crisis Revolution**.
 

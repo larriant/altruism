@@ -1,25 +1,21 @@
 # Altruism NGO Manifesto
 
-\*\*\*\*
-
-\*\*\*\*
-
 **Two Core Goals:**
 
-* **Helping people to have the motivation to help others.**
-* **Once people have the motivation helping them have impact.**
+* Helping people to have the motivation to help others.
+* Once people have the motivation helping them have impact.
 
 **Goals in another form.**
 
-* **To spread the idea that the best thing people can do with their lives is commit to helping others.**
-* **To help people find out how they can uniquely contribute to others. And support them in this.**
+* To spread the idea that the best thing people can do with their lives is commit to helping others.
+* To help people find out how they can uniquely contribute to others. And support them in this.
 
 **So in a nutshell we want to teach:**
 
-1. **the why\(s\) of altruism**
-2. **the how\(s\).**
+1. the why\(s\) of altruism
+2. the how\(s\).
 
-* **This mirrors the two main areas we want to teach people about: the internal aspects of altruism, and the external ones.**
+* This mirrors the two main areas we want to teach people about: the internal aspects of altruism, and the external ones.
 
 ## Principles
 

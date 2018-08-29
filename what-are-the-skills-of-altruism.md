@@ -1,4 +1,4 @@
-# What are the skills of Altruism?
+# What skills develop Altruism?
 
 
 
