@@ -1,1 +1,2 @@
-# altruism
+# Initial page
+
